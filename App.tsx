@@ -1,10 +1,10 @@
 
 import React from 'react';
-import Navbar from './components/Navbar';
-import GameHero from './components/GameHero';
-import DevInsights from './components/DevInsights';
-import Roadmap from './components/Roadmap';
-import Footer from './components/Footer';
+import Navbar from './components/Navbar.tsx';
+import GameHero from './components/GameHero.tsx';
+import DevInsights from './components/DevInsights.tsx';
+import Roadmap from './components/Roadmap.tsx';
+import Footer from './components/Footer.tsx';
 
 function App() {
   return (
